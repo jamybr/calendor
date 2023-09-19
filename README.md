@@ -2,6 +2,7 @@
 
 [Calendário Interativo](#calend%C3%A1rio-interativo)  
 [Descrição](#descri%C3%A7%C3%A3o)  
+[Recursos]()  
 [Funcionalidades](#funcionalidades)  
 [Tecnologias utilizadas](#tecnologias-utilizadas)  
 [Fontes consultadas](#fontes-consultadas)  
@@ -13,10 +14,17 @@
 ![Capa do projeto]()
 
 ## Descrição
-  Este é um simples projeto de calendário web que permite ao usuário escolher uma cor e um dia do mês para destacar no calendário; Foi desenvolvido no primeiro trimestre do segundo ano do ensino médio integrado em 2023 nas aulas de PROGRAMAÇÃO WEB I ministradas pelo professor Leonardo Rocha Na instituição Marista Escola Social Irmão Acácio.
+  Este é um simples projeto de calendário web que permite ao usuário escolher uma cor e um dia do mês para destacar no calendário; Foi desenvolvido no primeiro trimestre do segundo ano do ensino médio integrado em 2023 nas aulas de PROGRAMAÇÃO WEB I ministradas pelo professor Leonardo Rocha Na instituição Marista Escola Social Irmão Acácio.  
+
+## Recursos
 
 ## Funcionalidades
+  Adicionar cor aos dias no calendario; Tabela de cores:
 
+  * Azul💙  
+  * Verde💚  
+  * Rosa💗  
+  * Roxo💜  
 ## Tecnologias utilizadas
  * CSS  
  * HTML5  
