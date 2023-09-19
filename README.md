@@ -29,4 +29,4 @@
 ## Colaboradores
  * [Professor Leonardo Rocha](https://github.com/leonardossrocha) 
 ## Autores 
- *[Jasminy Matias e Silva](https://github.com/jamybr)
+ * [Jasminy Matias e Silva](https://github.com/jamybr)
