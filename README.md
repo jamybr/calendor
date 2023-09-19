@@ -44,4 +44,4 @@
 ## Colaboradores
  * [Professor Leonardo Rocha](https://github.com/leonardossrocha) 
 ## Autores 
- * [Jasminy Matias e Silva](https://github.com/jamybr)
+ Esse projeto foi criado por * [Jasminy Matias e Silva](https://github.com/jamybr)
