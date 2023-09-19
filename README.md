@@ -1,8 +1,8 @@
 # Índice
 
 [Calendário Interativo](#calend%C3%A1rio-interativo)  
-[Descrição](#descri%C3%A7%C3%A3o)
-[Funcionalidades]()
+[Descrição](#descri%C3%A7%C3%A3o)  
+[Funcionalidades]()  
 [Tecnologias utilizadas](#tecnologias-utilizadas)  
 [Fontes consultadas](#fontes-consultadas)  
 [Colaboradores](#colaboradores)  
