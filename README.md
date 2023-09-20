@@ -22,7 +22,7 @@
 * Botão para aplicar a cor selecionada ao dia escolhido;  
 * Opção de escolher uma cor para destacar um dia no calendário.  
 
-## Funcionalidades
+## 👾Funcionalidades
   Adicionar cor aos dias no calendario; Tabela de cores:
 
   * Azul💙  
